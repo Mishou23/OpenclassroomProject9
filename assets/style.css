@@ -1,3 +1,10 @@
+span.nav-link {
+	/* Set a background color for better contrast with text */
+	background-color: #ffffff; /* Choose a suitable background color */
+	/* Set a text color that provides sufficient contrast */
+	color: #000000; /* Choose a suitable text color */
+	/* You can adjust the background and text colors to meet accessibility standards */
+}
 body {
 	max-width: 1920px;
 	margin: auto;
@@ -90,9 +97,7 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
+
 .title{
 	text-align: center;
 	padding-block: 2em;
