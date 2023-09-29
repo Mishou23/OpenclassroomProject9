@@ -1,10 +1,4 @@
-span.nav-link {
-	/* Set a background color for better contrast with text */
-	background-color: #ffffff; /* Choose a suitable background color */
-	/* Set a text color that provides sufficient contrast */
-	color: #000000; /* Choose a suitable text color */
-	/* You can adjust the background and text colors to meet accessibility standards */
-}
+
 body {
 	max-width: 1920px;
 	margin: auto;
@@ -107,7 +101,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #3f3f3f;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
